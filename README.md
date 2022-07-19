@@ -10,5 +10,5 @@ Often times, dedicated Motor Drivers (such as L293D) are not readily available a
 ## Arduino (.ino) Files for Testing Functionality
 `code` folder contains the `.ino` file that contains prototype functions to run a robot car in all directions using two DC motors.
 <p align="center">
-  <a href="#"><b>End-user can modify the attached code to their needs. <b></a>
+  <a href="code/mtr_drv_final/mtr_drv_final.ino"><b>End-user can modify the attached code to their needs. <b></a>
 </p>
